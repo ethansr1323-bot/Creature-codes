@@ -1,0 +1,22 @@
+{
+  "id": "silk",
+  "name": "Silk",
+  "creator": "@weeopwex",
+  "dna": 22,
+  "build": "compact silk build",
+  "code": "|0.2.0|1UNpHj6QyP3246+Li+3kMN4dCsdM2bI5aQBZSsMCqXDkH6cC3X/+RktbZzmSQ3ZScOUzLPUXMgJZwr4Gh6SrAzz2IPHAx9LyzXcK+jzdBdo5afr3k4wasLc8VcAym93nXC2/zyun922257ssAQiqnNEEufwNzWfk7bKju9pMfDIpe9jGV2F6Ytrgd6QmRzElBE1bijAFJtgrJaLacjzydT2zDwhviF14sroqTKLbcGzPUil7F1TQEBbhHC+oqnrRqsRJ0Hm48s5ESsGUEhqT/Epnpy7XB9Mcg+Hp+BFlL4dwOjU0YjTghTkgTrk/7fibsRG8Kz7DC1mOMeDNVzupg0Amaz5L9lg4UqpgVRijdK9Kc4v1ukXuZgYtIKAe4AbOwCANnaHXsNSjqrNrqjYOTbEs3SYAun1+xPuIUzQIWmHbAZ6NRM/oJaevWthLvvgXIzcmuTdp0yvCPJqcEqewAe2qp/68i1ISCvOAS7Ze0",
+  "stats": {
+    "Dna Risk": 7,
+    "Health": 6.25,
+    "Regeneration": 0.75,
+    "Speed": 6.7,
+    "Swimming Speed": "0 (-2.40)",
+    "Jump Power": 8.5,
+    "Appetite": "0.5 food/min",
+    "FoodStorage": 5,
+    "Electricity res": 0,
+    "Silk Storage": 30,
+    "Venom Filter Speed": 1.5,
+    "Weight": 4.5
+  }
+}
