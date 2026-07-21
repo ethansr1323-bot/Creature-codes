@@ -1,0 +1,22 @@
+{
+  "id": "venom",
+  "name": "Venom",
+  "creator": "@weeopwex",
+  "dna": 15,
+  "build": "compact venom build",
+  "code": "|0.2.0|1UNpHk/Zq332470/vB+fg1Lb/MAYqprco3aQNuXuMBqSAAGBE5Sv+bhjbSeo+gTrDhO7+WVBkgatDN2sGwq74mr5JpkasD6BBQ73CSubMoRke9eEt81pVQuxjMp4iq10QXiJVMGndDsvxQE186i7dB4HxRI6hiJT/ESe+QrIh4SvsuNSV51KiKDHCumXAmDib/J54IwkmT6JD64WZnN1hsoOEBXVOEnAveHAhgBTxjHxEPoSt3JAEYAgMRgnenoksaKfBBIkCiFaQIhwuPsslExLHnFnZEqM97LVm4K0PLP9yUevliHWM41P7OJDWWK9pMsOmQGjGlURaEt7lZ+kxktsIOCxC+k9Vk/kjopiZxLdSuVwQpQxh3AX5bYyI5gU/0A51+73/j6J6JmSWk6JJcrVf0xhy9LFbPP5lx2E1fnM35UVJGqG/V7dhvx50",
+  "stats": {
+    "Dna Risk": 5,
+    "Health": 7,
+    "Regeneration": 0.75,
+    "Speed": 7.1,
+    "Swimming Speed": "0 (-3.90)",
+    "Jump Power": 7.5,
+    "Appetite": "0.75 food/min",
+    "FoodStorage": 4,
+    "Electricity res": 0,
+    "Venom Filter Speed": 1.5,
+    "Venom Storage": 2.5,
+    "Weight": 8.75
+  }
+}
