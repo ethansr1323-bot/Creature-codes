@@ -1,0 +1,18 @@
+{
+  "id": "honey",
+  "name": "Honey",
+  "creator": "weeopwex",
+  "dna": 109,
+  "build": "compact honey build",
+  "code": "|0.2.0|0UNpJoKJrrz346+lNL01wDFAKrTwS5rhnw2QsXsxmrS4xG868FQJf+B76qHUU4GqGZK9QevP1dPMvb9QdYdX4l3iovvXQk5sXEFt+Vhz2+TuX+Lf9pAqg0JfecP0Bk07qDrlsw13JiUvIff/036JkwMwDIawQgqKhOwK3xzS/dJXHurrYP7Z/NnY/hAzK2VY9rDD/EB3QG09ds3Rzy6hhZEEl8bG4+zxXXdK/pZ5MmF3oF2UL7+xpsSsoTHtw2mODZXMnl7UnXMfrCCX6cDhe4WA8puKyMWExNForENyQAr3duACabJGTBC4mkSQr2cIGlJ9MMymtx5J8Igdz1QIP8alwC2KPcsMes6aO2kQOhNgkIOhhhkYOhhgkVr+RLdasRkaIAHcIAMvRRTft9kFylS++aisvArXGtsMcKX3/QeZtjLpe5zcZOti9MpD1QRLfosHsqnqyr+N1pwH0KHJH/I8cwiwAOfb8ubiNN044zIWgWzt3D/QU6SF+d6JoiopyNaC4epOOf3Mez4+APVw5FCEccFYim6CkiBJJTLrbQuaxLStMIXbfoDJfZwtQsFq5eAPutjfDystwKRSr7tnIP4lK4yOs5715ZntZXUKnA29vltR+2TQsSe+zeNLvgye9Xcy6bjcUH/nTzfSds/KfrK/5GG2zLoxDjSawUM7fX8zCAh60ppYBtKhbvHUXlO/icVr8PkqbSCQexbXoBC63h2YDJzSF7WcZ7Y0pgZhuQjYkr4Lk9kLhYMR8YGHBTbk2hjXjUHueVdV5KsW8gNqBmFxXIfJPJHXIv83ZEq1NqLkViEA1kUa71HoiFoync9Y9FgkcFk9nm49WyWAGoiFIjnkrMdbhlleGk+lLiJILTdcUC29p3oFgmB9vyuWuf9XWBpI4jVJVFOkVJVFoimcFkVmlu75KfgGbuy9hGGY5DFalh/01vvFe2ihOHSAAn+7aY1ze5ZGR/h9YREJd9V8Vgm1esJyFFDCClY/D5jLQnyHMnkaITecoSfTp7CURWzLGNws5HMR344m5I2tjKsBX7FZ7VcMz4dUTOpEz79ZhC/8pjoNJPiR445U+gt3uAK9slzXEGCWUhldiY3Hr2LvCwlUu4vaXyEqQQfOsQcsVnQcIhSrOq2L/zEpUumL9LxuOkA+2y6GYEF8NlS4u/2hPwe4LFGxPepm5dpR7tITAuO4VOpoNcqy94nSMhn8tRocOAKIgZHv/cpID",
+  "stats": {
+    "DNA Cost": 109,
+    "DNA Risk": 33,
+    "Health": 12.25,
+    "Regeneration": 0.75,
+    "Speed": 0.1,
+    "Swim Speed": 20.55,
+    "Appetite": "0.54 food/min",
+    "Food Storage": 4
+  }
+}
