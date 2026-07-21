@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Creature Codes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <h1>Creature Codes</h1>
+      <div class="header-actions">
+        <button id="request-btn" class="request-btn" type="button">+ Request</button>
+        <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">
+          <img src="Filter-3-Line--Streamline-Remix.svg" alt="Filter" class="filter-icon">
+        </button>
+      </div>
+    </header>
+
+    <div id="filter-panel" class="filter-panel">
+      <div class="filter-header">
+        <h2>Filter by tags</h2>
+        <button id="filter-clear" class="filter-clear" type="button">Clear</button>
+      </div>
+      <div id="filter-tags" class="filter-tags"></div>
+    </div>
+
+    <ul id="creature-list" class="creature-list"></ul>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite">Copied!</div>
+
+  <div id="request-modal" class="modal-backdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h2 id="modal-title">Request a Creature Code</h2>
+        <button id="modal-close" class="modal-close" type="button" aria-label="Close">✕</button>
+      </div>
+      <div class="modal-body">
+        <div id="modal-form-view">
+          <div class="form-grid">
+            <div class="form-group full">
+              <label for="req-code">Creature Code</label>
+              <input id="req-code" type="text" placeholder="|0.2.0|..." class="form-input mono">
+            </div>
+            <div class="form-group full">
+              <label for="req-name">Your Roblox Name</label>
+              <div class="roblox-input-row">
+                <div class="roblox-field-wrap">
+                  <input id="req-name" type="text" placeholder="@username" class="form-input">
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="req-dna">DNA Cost</label>
+              <input id="req-dna" type="number" placeholder="e.g. 19" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-risk">DNA Risk</label>
+              <input id="req-risk" type="number" placeholder="e.g. 6" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-health">Health</label>
+              <input id="req-health" type="number" step="0.01" placeholder="e.g. 7" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-regen">Regeneration</label>
+              <input id="req-regen" type="number" step="0.01" placeholder="e.g. 0.75" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-speed">Speed</label>
+              <input id="req-speed" type="number" step="0.01" placeholder="e.g. 6.85" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-swim">Swim Speed</label>
+              <input id="req-swim" type="number" step="0.01" placeholder="e.g. 0.29" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-appetite">Appetite (food/min)</label>
+              <input id="req-appetite" type="number" step="0.01" placeholder="e.g. 0.5" class="form-input">
+            </div>
+            <div class="form-group">
+              <label for="req-food">Food Storage</label>
+              <input id="req-food" type="number" step="0.01" placeholder="e.g. 6" class="form-input">
+            </div>
+          </div>
+          <button id="req-preview-btn" class="req-preview-btn" type="button">Preview Request</button>
+        </div>
+
+        <div id="modal-preview-view" class="hidden">
+          <pre id="req-preview-text" class="preview-text"></pre>
+          <div class="preview-actions">
+            <button id="req-back-btn" class="req-back-btn" type="button">← Edit</button>
+            <button id="req-send-btn" class="req-send-btn" type="button">Send Email</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
