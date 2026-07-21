@@ -1,0 +1,21 @@
+{
+  "id": "shield",
+  "name": "Shield",
+  "creator": "@weeopwex",
+  "dna": 15,
+  "build": "compact shield build",
+  "code": "|0.2.0|2UNpDk/RqO33560/Hyv14YAC/oZmpneoMuxtRP5pNUu5R4Fd2Xz/ijit5xpayTAob/UAsuelw3KZ+ui11cDQZZHNSeHesJPaNDDYCzZ4R807WPK034DztWwmO03eJ0LWL6+f3tu2HoUynwlry/oUMKQ/oSHyLVmt+Nt3rurojxhBokUZw/ISAwq0Jeh9jkbFI5lPiBb9yMbvXXfqfp3uTtwbFvbemlMCqwGcUo9SkZUS+7yTKYCkvYGRTG7H9NQyjkBjAV4Uv+bbKzAxSrZ4WCFIG9v6CyApVkHGiCzcN4X4K5voTZBdTroG91NixK+V2y5GigABJqvWwUQbNEnPwnsAGWkyie/e3HwiPJRkftfimvwxClwsQX1zbh2zTVICM1LHnc+ZDsaemxF6ruxaLwS87ncQwYsQKxEv+Npqyb000",
+  "stats": {
+    "Dna Risk": 5,
+    "Health": 10.75,
+    "Regeneration": 0.75,
+    "Speed": 3.90,
+    "Swimming Speed": "0 (-3.40)",
+    "Jump Power": 5.75,
+    "Appetite": "0.54 food/min",
+    "FoodStorage": 12,
+    "Electricity res": 0,
+    "Venom Filter Speed": 1,
+    "Weight": 9
+  }
+}
