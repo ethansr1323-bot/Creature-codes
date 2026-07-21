@@ -1,0 +1,22 @@
+{
+  "id": "honey",
+  "name": "Honey",
+  "creator": "@weeopwex",
+  "dna": 19,
+  "build": "compact honey build",
+  "code": "|0.2.0|0UNpJk7Izr32460+l9L0H4PU0oXrJhqBWxlai9GTC3orSdEB0hoYx+SnIxqBIXGWuFTI39vYf33xj6TH+hgisGTG67HF31Jae5Q2GPWXvv4o21JDknthA0sfdEyah5xAjNFnYjNb85Y0NgWCngImmXj8iCxBfG/lpWHugBnfc/ONVnaeO5D6W7KEucqsWfr1pbUvSWsgRvhXJfq1Tpxrq9mIAQTW6YnRKp9AqKDGkylrilnE++ANeE3Pkl4kLo9FDK7r/mo0CR0weXLJXMkQQDHPlOVU1Hla/jy2IgmNF3uHf0Xj/kwRyseHdJ1IqW5lk7caHAeC6aiXxwe53CrFtOVP9hm2ys98DLE3nlSjncqXM7y3reeB2kIpT2noHEDDatakKUMnWWIczsb6pC1oFsfRRZHtmZrvpzLQCGTcndvdUWU5uDmPS7zlBxy7e1nblSvaRQdeS/HjMWs6MYEQfRe/RtDuTUSZIN6RfSZbDyg9j/BXyF9PuLPFXz6LrAPb/Rhuic1e7MO3yY3gXYRNkEiPJBRMm+LvCi0n8",
+  "stats": {
+    "Dna Risk": 6,
+    "Health": 7,
+    "Regeneration": 0.75,
+    "Speed": 6.85,
+    "Swimming Speed": 0.29,
+    "Jump Power": 8.5,
+    "Appetite": "0.5 food/min",
+    "FoodStorage": 6,
+    "Electricity res": 0,
+    "Honey Storage": 20,
+    "Venom Filter Speed": 1.5,
+    "Weight": 6.1
+  }
+}
